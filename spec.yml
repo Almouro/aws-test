@@ -1,0 +1,23 @@
+version: 0.1
+
+phases:
+  # install:
+  #   commands:
+  #     - command
+  #     - command
+  # pre_test:
+  #   commands:
+  #     - command
+  #     - command
+  test:
+    commands:
+      - echo BONJOUR
+      - echo toto
+  # post_test:
+  #   commands:
+  #     - command
+  #     - command
+
+# artifacts:
+#   - location
+#   - location
